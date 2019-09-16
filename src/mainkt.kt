@@ -668,6 +668,73 @@ println(id)
 val name : String?  = null
 val length :Int = name!!.length
 
+//Обработка исключений
+try {
+    // код, генерирующий исключение
+}
+catch (e: Exception) {
+    // обработка исключения
+}
+finally {
+    // постобработка
+}
+
+val a: Int? = try { factorial(5) } catch (e: Exception) { null }
+ 
+//Преобразование типов
+
+val s: String = "12"
+val d: Int = s.toInt()
+
+val s: String = "tom"
+try {
+    val d: Int = s.toInt()
+    println(d)
+}
+catch(e: NumberFormatException){
+    println(e.message)
+}
+
+if(d is Int)
+        println(d * d)  
+
+val t = d as Int 
+val id: Int? = name as? Int
+
+//Обобщенные классы и функции
+
+class Person<T>(val id: T, _name: String){
+    var name: String = _name
+}}
+
+var tom: Person<Int> = Person<Int>(367, "Tom")
+var bob: Person<String> = Person<String>("A65", "Bob")
+
+fun <T> getItem(a: T, b: T, c: T): T{
+    var n = random.nextInt(3)
+    if(n==1) return a
+    else if(n==2) return b
+    else return  c
+}
+
+//Ограничения обобщений
+inline fun <T:TYPE> For(it : Iterator<T>, cb : (T) -> Unit) {
+  while (it.hasNext()) cb(it.next())
+}
+
+//calbacks
+
+inline fun <T> For(it : Iterator<T>, cb : (T) -> Unit) {
+  while (it.hasNext()) cb(it.next())
+}
+For(list.iterator()) { println(it) }
+
+
+
+
+
+
+
 
 */
 
