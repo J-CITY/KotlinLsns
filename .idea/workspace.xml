@@ -2,38 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99969646-f569-4f0f-bfde-ba8576ae7265" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_jetbrains_kotlinx_kotlinx_coroutines_core_0_27_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_jetbrains_kotlinx_kotlinx_coroutines_core_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUISamples/GUI0.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUISamples/GUI1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUISamples/GUI2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUISamples/GUI3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUISamples/GUI4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUISamples/GUI5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUISamples/GUI6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUISamples/GUI7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUISamples/GUI8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asynk.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainexamlpes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUISamples/GUI10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUISamples/GUI9.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinLsns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinLsns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/KotlinSwingSimpleEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/META-INF/KotlinLsns.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/META-INF/KotlinLsns.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Main$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt$sam$java_lang_Runnable$0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController$initialize$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController$initialize$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/resources/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/resources/main.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainkt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainkt.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/main.fxml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,28 +48,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.GUISamples.MPlayer">
-    <configuration name="AsynkKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.GUISamples.GUI10">
+    <configuration name="GUISamples.GUI10" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinLsns" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="AsynkKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GUISamples.GUI5" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinLsns" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GUISamples.GUI5" />
+      <option name="MAIN_CLASS_NAME" value="GUISamples.GUI10" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GUISamples.GUI9" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinLsns" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GUISamples.GUI9" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GUISamples.MPlayer" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinLsns" />
       <option name="VM_PARAMETERS" />
@@ -145,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.GUISamples.GUI10" />
+        <item itemvalue="Kotlin.GUISamples.GUI9" />
         <item itemvalue="Kotlin.GUISamples.MPlayer" />
         <item itemvalue="Kotlin.GUISamples.GUI7" />
         <item itemvalue="Kotlin.GUISamples.GUI6" />
-        <item itemvalue="Kotlin.AsynkKt" />
-        <item itemvalue="Kotlin.GUISamples.GUI5" />
       </list>
     </recent_temporary>
   </component>
