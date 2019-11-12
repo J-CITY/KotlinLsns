@@ -1,6 +1,7 @@
 interface Prntable{
     fun printName()
 }
+
 enum class DayTime: Prntable{
     DAY{
         override fun printName(){
@@ -41,6 +42,7 @@ abstract class Mammalia(open var name: String){
     var a: Int = 5
     abstract fun hello2()
 }
+
 
 //open говорит, что можно наследоваться
 open class Person(_name: String): Mammalia(_name), Human, Human2 {
@@ -151,6 +153,8 @@ fun testExp() {
 
 }
 
+
+
 class Account(_sum: Int) {
     var sum = _sum
 
@@ -167,11 +171,11 @@ fun infix() {
     println(acc.sum)
 }
 
-fun main() {
+fun main(a: Int) {
     var p = Person("Bob")
     print(p)
     p.die2(someNum = 2)
-
+    return
     //nullTest()
     //testExp()
     //infix()

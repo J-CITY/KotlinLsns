@@ -12,7 +12,7 @@ import javafx.scene.control.Button
 import javafx.scene.layout.StackPane
 import javafx.stage.Stage
 
-class GUI : Application() {
+class GUI: Application() {
     override fun start(primaryStage: Stage) {
         //создаем кнопку
         val btn = Button()
@@ -27,7 +27,7 @@ class GUI : Application() {
         root.children.add(btn)
 
         //создаем окно
-        val scene = Scene(root, 300.0, 250.0)
+        val scene = Scene(root, 500.0, 250.0)
 
         primaryStage.title = "Hello World!"
         primaryStage.scene = scene

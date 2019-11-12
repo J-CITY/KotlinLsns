@@ -25,6 +25,18 @@ class Logger {
 }
 
 
+fun selectAction(key: Int): (Int, Int) -> Int{
+    // определение возвращаемого результата
+
+
+    when(key){
+        1 -> return {x:Int, y: Int -> x + y}
+        2 -> return {x:Int, y: Int -> x - y}
+        3 -> return {x:Int, y: Int -> x * y}
+        else -> return  {x:Int, y: Int -> 0}
+    }
+}
+
 // Hello world
 
 fun main(args: Array<String>){

@@ -28,7 +28,7 @@ class GUI3 : Application() {
         btn1.text = "Simple alert'"
         //ставим действие на кнопку
         btn1.onAction = EventHandler {
-            val alert = Alert(AlertType.INFORMATION)
+            val alert = Alert(AlertType.ERROR)
             alert.title = "Some text"
             alert.headerText = "Information Alert"
             val s = "This is an example text"

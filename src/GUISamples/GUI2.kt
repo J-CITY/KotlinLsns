@@ -38,11 +38,6 @@ class StackedAreaChartExample : Application() {
         // получаем выбранный элемент
         langsComboBox.setOnAction {
             when (langsComboBox.value) {
-                "Line" -> {
-                    root.children.remove(graph)
-                    graph = addLine()
-                    root.children.add(graph)
-                }
                 "Chart" -> {
                     root.children.remove(graph)
                     graph = addChart()
@@ -56,6 +51,11 @@ class StackedAreaChartExample : Application() {
                 "Hist" -> {
                     root.children.remove(graph)
                     graph = addHist()
+                    root.children.add(graph)
+                }
+                "Line" -> {
+                    root.children.remove(graph)
+                    graph = addLine()
                     root.children.add(graph)
                 }
                 else -> {
