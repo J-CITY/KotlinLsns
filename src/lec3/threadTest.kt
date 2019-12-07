@@ -1,16 +1,18 @@
 import kotlinx.coroutines.*
+import java.lang.Thread.sleep
 import java.util.concurrent.atomic.AtomicLong
 import kotlin.concurrent.thread
 
 //Разница в том, что launch{} ничего не возвращает, а async{} возвращает экземпляр Deferred, в котором имеется функция await(), которая возвращает результат корутины
 
 
-fun main(args: Array<String>) {
+suspend fun main(args: Array<String>) {
     println("Kotlin Start")
     GlobalScope.launch {
         delay(2000)
         println("Kotlin Inside")
     }
+    delay(3000)
     println("Kotlin End")
 }
 

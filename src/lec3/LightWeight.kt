@@ -67,7 +67,7 @@ class Forest: JFrame() {
 
 object Demo1 {
     var CANVAS_SIZE = 500
-    var TREES_TO_DRAW = 1000000
+    var TREES_TO_DRAW = 1000
     var TREE_TYPES = 2
     @JvmStatic
     fun main(args: Array<String>) {
