@@ -11,7 +11,6 @@ import javafx.scene.layout.HBox
 import javafx.scene.layout.VBox
 import javafx.stage.Stage
 import javafx.scene.canvas.Canvas;
-import com.sun.management.jmx.Trace.isSelected
 import javafx.event.EventHandler
 import javafx.scene.canvas.GraphicsContext
 import javafx.scene.input.MouseButton

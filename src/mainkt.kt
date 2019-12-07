@@ -57,16 +57,6 @@ fun action (n1: Int, n2: Int, operation: (Int, Int)-> Int){
     println(result)
 }
 
-fun selectAction(key: Int): (Int, Int) -> Int{
-    // определение возвращаемого результата
-    when(key){
-        1 -> return {x:Int, y: Int -> x + y}
-        2 -> return {x:Int, y: Int -> x - y}
-        3 -> return {x:Int, y: Int -> x * y}
-        else -> return  {x:Int, y: Int -> 0}
-    }
-}
-
 fun main2() {
     val list = listOf(1, 3, 4, 12)
     println("for");   for (it in list) println(it)
