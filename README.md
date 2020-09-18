@@ -3,10 +3,37 @@
 
 ## Краткис справочник по Kotlin
 
-1. Основы
-    + [var и val](#varval)
+Более подробно тут
 
-## Hello world
+[kotlinlang.ru](https://kotlinlang.ru/)
+
+[metanit.com/kotlin](https://metanit.com/kotlin/tutorial/)
+
+1. [Основы](#base)
+    + [Hello world](#hw)
+    + [Базовые типы данных](#types)
+    + [var и val](#varval)
+    + [Условный оператор](#if)
+    + [Аналог switch](#switch)
+    + [Циклы](#loop)
+    + [Последовательность](#range)
+    + [Массив](#array)
+2. [Функции](#fun)
+    + [Аргументы по умолчанию](#argsdef)
+    + [Переменное количество аргументов](#argsdin)
+    + [Оператор* (оператор распаковки)](#operm)
+    + [Возвращение результата из функции](#return)
+    + [Однострочные функции](#onelinefun)
+    + [Локальные функции](#localfun)
+    + [Перегрузка функций](#overridefun)
+    + [Лямбды](#lambda)
+    + [Анонимные функции](#aninimfun)
+    + [Функции высокого порядка](#functor)
+    + [Inline функции](#inlinefun)
+
+# <a name="base"></a> Основы
+
+## <a name="hw"></a> Hello world
 
 ```kotlin
 fun main(args: Array<String>){
@@ -14,7 +41,7 @@ fun main(args: Array<String>){
 }
 ```
 
-## Базовые типы данных
+## <a name="types"></a> Базовые типы данных 
 
 Byte, Short, Int, Long, Float, Double - всё довольно стандартно
 
@@ -27,8 +54,7 @@ name = 42
 
 `Any` - базовый тип данных
 
-##### <a name="varval"></a> val и var 
-
+## <a name="varval"></a> val и var 
 
 ```kotlin
 val a: Int = 42;
@@ -43,7 +69,7 @@ val - неизменяемая переменная
 
 var - изменяемая
 
-## Условный оператор
+## <a name="if"></a> Условный оператор
 
 ```kotlin
 if(a == b)
@@ -62,7 +88,7 @@ val c = if (a > b){
 }
 ```
 
-### Аналог case
+## <a name="switch"></a> Аналог switch
 
 ```kotlin
 val a = 10
@@ -83,8 +109,7 @@ val rate = when(sum){
 }
 ```
 
-
-## Циклы
+## <a name="loop"></a> Циклы
 
 ```
 for(n in 1..9){
@@ -119,7 +144,7 @@ while(i > 0){
 }
 ```
 
-## Последовательности
+## <a name="range"></a> Последовательности
 
 ```kotlin
 var range = 1..10
@@ -132,7 +157,7 @@ if (1 in range) {
 }
 ```
 
-## Массивы
+## <a name="array"></a> Массивы
 
 ```kotlin
 val numbers: Array<Int> = arrayOf(1, 2, 3, 4, 5)
@@ -149,7 +174,7 @@ for(elem in arr){
 }
 ```
 
-#Функции
+# <a name="fun"></a> Функции
 
 ```kotlin
 fun funName(param1: type1, param2: type2, ...) : returnType {
@@ -157,7 +182,7 @@ fun funName(param1: type1, param2: type2, ...) : returnType {
 }
 ```
 
-Аргументы по умолчанию
+## <a name="argsdef"></a> Аргументы по умолчанию
 
 ```kotlin
 fun displayUser(name: String, age: Int = 18, position: String="unemployed"){
@@ -167,7 +192,7 @@ fun displayUser(name: String, age: Int = 18, position: String="unemployed"){
 displayUser(age=21, name="Alice")
 ```
 
-Переменное количество аргументов
+## <a name="argsdin"></a> Переменное количество аргументов
 
 `vararg` - ключевое слово, для передачи переменного количества параметров одного типа
 
@@ -184,7 +209,7 @@ fun sum(vararg numbers: Int){
 
 (Это можно нарушить, если после vararg-параметра идут еще какие-нибудь параметры, то при вызове функции значения этим параметрам передаются через именованные аргументы)
 
-Оператор * (оператор распаковки)
+## <a name="operm"></a> Оператор * (оператор распаковки)
 
 Помагает распаковать массив для передачи его как параметр vararg
 
@@ -201,7 +226,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-Возвращение результата из функции
+## <a name="return"></a> Возвращение результата из функции
 
 Возвращение значение из функции осуществляется с помощью оператора `return`
 
@@ -213,7 +238,7 @@ fun fun42() : Int{
 
 Забавный факт, если функция ничего не возвращает, то ее тип возвращаемого значения - `Uint`
 
-Однострочные функции
+## <a name="onelinefun"></a> Однострочные функции
 
 Однострочные функции (single expression function) используют сокращенный синтаксис определения функции в виде одного выражения. Эта форма позволяет опустить возвращаемый тип и оператор return.
 
@@ -222,7 +247,7 @@ fun pow2(x: Int) : Int = x * x
 
 ```
 
-Локальные функции
+## <a name="localfun"></a> Локальные функции
 
 ```kotlin
 fun check(num: Int): Boolean{
@@ -231,7 +256,7 @@ fun check(num: Int): Boolean{
 }
 ```
 
-Перегрузка функций
+## <a name="overridefun"></a> Перегрузка функций
 
 ```kotlin
 fun add(a: Int, b: Int) : Int{
@@ -244,7 +269,7 @@ fun add(a: Double, b: Double) : Double{
 
 Важно в `kotlin` при перегрузке не учитывает возвращаемый результат функции
 
-Лямбды
+## <a name="lambda"></a> Лямбды
 
 Лямбда-выражения представляют небольшие кусочки кода, которые выполняют некоторые действия. Фактически лямбды преставляют сокращенную запись функций. При этом лямбды могут передаваться в качестве параметра в функции.
 
@@ -259,7 +284,7 @@ val summerAndPrinter = {x:Int, y:Int ->
 }
 ```
 
-Анонимные функции
+## <a name="aninimfun"></a> Анонимные функции
 
 Анонимные функции выглядят как обычные за тем исключением, что они не имеют имени.
 
@@ -300,7 +325,7 @@ fun loop(list: List<Element>): Boolean {
 
 Для чего они нужны? Да чтобы их в функции передавать))
 
-Функции высокого порядка
+## <a name="functor"></a> Функции высокого порядка
 
 Функции высокого порядка (high order function) - это функции, которые либо принимают функцию в качестве параметра, либо возвращают функцию, либо и то, и другое.
 
@@ -321,12 +346,12 @@ fun selectAction(key: Int): (Int, Int) -> Int{
 }
 ```
 
-Inline функции
+## <a name="inlinefun"></a> Inline функции
 
 Ключевое слово inline - сообщит компилятору, что мы хотим, чтобы код этой функции подставлялся в месте её вызова.
 
 ```kotlin
-inline fun pow(i: Int)-> Int {
+inline fun pow(i: Int): Int {
     return i*i
 }
 ```
