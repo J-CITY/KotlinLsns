@@ -2,8 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99969646-f569-4f0f-bfde-ba8576ae7265" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_httpcomponents_httpclient_4_5_102.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/AbstractFabric/AbstractFabric.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Builder/builder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Fabric/Fabric.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainkt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainkt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KotlinLsns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinLsns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$failedConcurrentSum2$2$one$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$failedConcurrentSum2$2$one$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$failedConcurrentSum2$2$two$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$failedConcurrentSum2$2$two$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$main$job$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$main$job$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$simpleThread$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$simpleThread$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Complex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Complex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/DayTime$DAY.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/DayTime$DAY.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/DayTime$NIGHT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/DayTime$NIGHT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/DayTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/DayTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/GUI3$start$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/GUI3$start$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1$menu$1$selectMenuItem$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1$menu$1$selectMenuItem$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1$menu$1$selectMenuItem$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1$menu$1$selectMenuItem$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1$menu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1$menu$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$stopButton$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$stopButton$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$stopButton$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$stopButton$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/StackedAreaChartExample$start$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/StackedAreaChartExample$start$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Human$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Human$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Human2$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Human2$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/LogType$INFO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/LogType$INFO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Logger$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Logger$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/META-INF/KotlinLsns.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/META-INF/KotlinLsns.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainexamlpesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/MainexamlpesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Mammalia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Mammalia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController$initialize$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController$initialize$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/helloworld/HelloWorld$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/helloworld/HelloWorld$start$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/helloworld/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUISamples/Paint.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUISamples/Print/Paint.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +66,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -29,11 +80,21 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="GUISamples.Print" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniil (WORK)\Desktop\KotlinLsns\src\Patterns\Fabric" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,67 +108,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.GUISamples.GUI10">
-    <configuration name="GUISamples.GUI10" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Patterns.AbstractFabric.AbstractFabricKt">
+    <configuration name="GUISamples.GUI" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinLsns" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GUISamples.GUI10" />
+      <option name="MAIN_CLASS_NAME" value="GUISamples.GUI" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GUISamples.GUI6" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="GUISamples.GUI3" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinLsns" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GUISamples.GUI6" />
+      <option name="MAIN_CLASS_NAME" value="GUISamples.GUI3" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GUISamples.GUI7" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Patterns.AbstractFabric.AbstractFabricKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinLsns" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GUISamples.GUI7" />
+      <option name="MAIN_CLASS_NAME" value="Patterns.AbstractFabric.AbstractFabricKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GUISamples.GUI9" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Patterns.Fabric.FabricKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinLsns" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GUISamples.GUI9" />
+      <option name="MAIN_CLASS_NAME" value="Patterns.Fabric.FabricKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GUISamples.MPlayer" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="helloworld.HelloWorld" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinLsns" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GUISamples.MPlayer" />
+      <option name="MAIN_CLASS_NAME" value="helloworld.HelloWorld" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.GUISamples.GUI10" />
-        <item itemvalue="Kotlin.GUISamples.GUI9" />
-        <item itemvalue="Kotlin.GUISamples.MPlayer" />
-        <item itemvalue="Kotlin.GUISamples.GUI7" />
-        <item itemvalue="Kotlin.GUISamples.GUI6" />
+        <item itemvalue="Kotlin.Patterns.AbstractFabric.AbstractFabricKt" />
+        <item itemvalue="Kotlin.Patterns.Fabric.FabricKt" />
+        <item itemvalue="Kotlin.helloworld.HelloWorld" />
+        <item itemvalue="Kotlin.GUISamples.GUI" />
+        <item itemvalue="Kotlin.GUISamples.GUI3" />
       </list>
     </recent_temporary>
   </component>
