@@ -2,59 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99969646-f569-4f0f-bfde-ba8576ae7265" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_httpcomponents_httpclient_4_5_102.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/AbstractFabric/AbstractFabric.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Builder/builder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Fabric/Fabric.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinLsns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinLsns.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$failedConcurrentSum2$2$one$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$failedConcurrentSum2$2$one$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$failedConcurrentSum2$2$two$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$failedConcurrentSum2$2$two$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$main$job$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$main$job$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$simpleThread$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$simpleThread$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Complex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Complex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/DayTime$DAY.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/DayTime$DAY.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/DayTime$NIGHT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/DayTime$NIGHT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/DayTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/DayTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/GUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/GUI3$start$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/GUI3$start$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1$menu$1$selectMenuItem$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1$menu$1$selectMenuItem$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1$menu$1$selectMenuItem$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1$menu$1$selectMenuItem$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1$menu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1$menu$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$menubar$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$stopButton$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$stopButton$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$stopButton$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1$stopButton$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1$hbox$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1$vbox$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer$start$root$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/MPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/StackedAreaChartExample$start$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/GUISamples/StackedAreaChartExample$start$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Human$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Human$DefaultImpls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Human2$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Human2$DefaultImpls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/LogType$INFO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/LogType$INFO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Logger$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Logger$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/META-INF/KotlinLsns.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/META-INF/KotlinLsns.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainexamlpesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/MainexamlpesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Mammalia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Mammalia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController$initialize$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController$initialize$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/helloworld/HelloWorld$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/helloworld/HelloWorld$start$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/helloworld/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUISamples/Paint.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUISamples/Print/Paint.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainexamlpes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainexamlpes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainkt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainkt.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
