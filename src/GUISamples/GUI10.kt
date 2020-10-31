@@ -21,8 +21,6 @@ import javafx.beans.value.ObservableValue
 import javafx.concurrent.Worker
 import netscape.javascript.JSObject
 
-
-
 class GUI10 : Application() {
     private val df = SimpleDateFormat("dd-MM-yyyy HH:mm:ss")
     private lateinit var label: Label

@@ -37,7 +37,16 @@ class WindowsFactory : GUIFactory {
     }
 }
 
+class Singltone {
+    companion object {
+        var instance = Singltone()
+    }
+}
+
 fun main() {
     val wf = WindowsFactory()
     wf.createButton().paint()
+
+
+    Singltone.instance
 }

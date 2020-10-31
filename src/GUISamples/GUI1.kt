@@ -3,12 +3,14 @@ package GUISamples
 import javafx.application.Application
 import javafx.event.ActionEvent
 import javafx.event.EventHandler
+import javafx.scene.Node
 import javafx.scene.Scene
 import javafx.scene.control.Button
 import javafx.scene.control.Label
 import javafx.stage.Stage
 import java.util.Collections.addAll
 import javafx.scene.control.Slider
+import javafx.scene.control.TableView
 import javafx.scene.layout.*
 
 class GUI1 : Application() {
@@ -35,7 +37,10 @@ class GUI1 : Application() {
         columnConstraints.setPrefWidth(130.0)
         val columnConstraints1 = ColumnConstraints()
         columnConstraints1.setPercentWidth(20.0)
-        grid.getColumnConstraints().addAll(columnConstraints, columnConstraints1)
+
+        val columnConstraints2 = ColumnConstraints()
+        columnConstraints2.setPercentWidth(200.0)
+        grid.getColumnConstraints().addAll(columnConstraints, columnConstraints1, columnConstraints2)
 
         hBox.children.add(grid)
 

@@ -10,7 +10,6 @@ import javafx.scene.input.MouseButton
 import javafx.scene.input.MouseEvent
 import javafx.scene.paint.Color
 
-
 class Paint : Application() {
 
     var brushSize = 18.0

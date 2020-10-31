@@ -16,8 +16,8 @@ class GUI: Application() {
     override fun start(primaryStage: Stage) {
         //создаем кнопку
         val btn = Button()
-        btn.text = "Say 'Hello World'"
         //ставим действие на кнопку
+        btn.text = "Say 'Hello World'"
         btn.onAction = EventHandler {
             println("Hello World!")
         }

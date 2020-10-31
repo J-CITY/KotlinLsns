@@ -24,8 +24,9 @@ class CarBuilder {
     val result: Car
         get() = Car(type!!, seats, engine!!, transmission!!, tripComputer!!, gpsNavigator!!)
 
-    fun setType(type: Type) {
+    fun setType(type: Type): CarBuilder {
         this.type = type
+        return this
     }
 
     fun setSeats(seats: Int) {

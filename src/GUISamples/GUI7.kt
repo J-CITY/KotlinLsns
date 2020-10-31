@@ -10,7 +10,7 @@ class GUI7 : Application() {
     val layout = "/resources/main.fxml"
 
     override fun start(primaryStage: Stage?) {
-        System.setProperty("prism.lcdtext", "false")
+        //System.setProperty("prism.lcdtext", "false")
         primaryStage?.scene = Scene(load<Parent?>(GUI7.javaClass.getResource(layout)))
         primaryStage?.setTitle("XML App");
         primaryStage?.show()

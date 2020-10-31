@@ -33,6 +33,7 @@ class MPlayer : Application() {
                 val filenameLabel = Label("")
                 val fileChooser = FileChooser()
                 fileChooser.title = "Open File"
+
                 fileChooser.extensionFilters.addAll(
                     ExtensionFilter("Audio Files", "*.wav", "*.mp3")
                 )
