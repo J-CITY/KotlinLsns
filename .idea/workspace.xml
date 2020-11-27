@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99969646-f569-4f0f-bfde-ba8576ae7265" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jfoenix_8_0_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DnD.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUISamples/Async.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUISamples/Notify.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DnD2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUISamples/Kino.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUISamples/Video.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinLsns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinLsns.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Account.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/ArraysKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/ArraysKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$failedConcurrentSum$2$one$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/AsynkKt$failedConcurrentSum$2$one$1.class" afterDir="false" />
@@ -107,18 +104,10 @@
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Human2$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Human2$DefaultImpls.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Human2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Human2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/InumKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/InumKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/LogType$INFO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/LogType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Logger$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Logger.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/META-INF/KotlinLsns.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/META-INF/KotlinLsns.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainexamlpesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/MainexamlpesKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt$main2$anonim$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt$main2$anonim$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt$main2$sum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt$main2$sum$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt$selectAction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt$selectAction$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt$selectAction$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt$selectAction$4.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/MainktKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Mammalia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Mammalia.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Mp3Codec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Mp3Codec.class" afterDir="false" />
@@ -137,7 +126,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Patterns/Fabric/HtmlButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Patterns/Fabric/HtmlButton.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Patterns/Fabric/HtmlFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Patterns/Fabric/HtmlFactory.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Printable.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/Prntable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/Prntable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/ThreadTestKt$$$main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/ThreadTestKt$$$main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/ThreadTestKt$doWorkFor1Seconds$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/ThreadTestKt$doWorkFor1Seconds$1.class" afterDir="false" />
@@ -160,24 +148,12 @@
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/WindowsButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/WindowsButton.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/WindowsDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/WindowsDialog.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/_Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/_Button.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController$initialize$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/controller/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/lec3/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/lec3/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/lec3/SomeThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/lec3/SomeThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/lec3/sql$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/lec3/sql$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/lec3/sql.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/lec3/sql.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/lec3/threadJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/lec3/threadJava.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLsns/resources/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLsns/resources/main.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUISamples/GUI0.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUISamples/GUI0.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUISamples/GUI1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUISamples/GUI1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUISamples/GUI10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUISamples/GUI10.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GUISamples/GUI7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUISamples/GUI7.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUISamples/GUI8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUISamples/GUI8.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUISamples/Print/Paint.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUISamples/Print/Paint.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/AbstractFabric/AbstractFabric.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/AbstractFabric/AbstractFabric.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/Builder/builder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Builder/builder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUISamples/Notify.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUISamples/Notify.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/controller.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/main.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,6 +164,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Class" />
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
       </list>
@@ -208,8 +185,8 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../libs/java/jfoenix-8.0.10.jar!/" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Player-main" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.38344434" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -223,67 +200,55 @@
       <recent name="C:\Users\Daniil (WORK)\Desktop\KotlinLsns\src\Patterns\Fabric" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Async">
-    <configuration name="Async" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Kino (1)">
+    <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Check" />
+      <module name="KotlinLsns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="KotlinLsns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kino (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinLsns" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GUISamples.Async" />
+      <option name="MAIN_CLASS_NAME" value="GUISamples.Kino" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DnD" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Kino" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinLsns" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DnD" />
+      <option name="MAIN_CLASS_NAME" value="Kino" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GUI10" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="VideoPlayer" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinLsns" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GUISamples.GUI10" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GUI6" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="KotlinLsns" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GUISamples.GUI6" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Notify" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="KotlinLsns" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GUISamples.Notify" />
+      <option name="MAIN_CLASS_NAME" value="GUISamples.VideoPlayer" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -291,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Async" />
-        <item itemvalue="Kotlin.DnD" />
-        <item itemvalue="Kotlin.Notify" />
-        <item itemvalue="Kotlin.GUI10" />
-        <item itemvalue="Kotlin.GUI6" />
+        <item itemvalue="Kotlin.Kino (1)" />
+        <item itemvalue="Kotlin.VideoPlayer" />
+        <item itemvalue="Kotlin.Kino" />
+        <item itemvalue="Application.Check" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -330,37 +295,62 @@
       <screen x="1920" y="30" width="1920" height="1050" />
     </state>
     <state x="2286" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1604101029334" />
-    <state x="2586" y="296" key="FileChooserDialogImpl" timestamp="1604099220698">
-      <screen x="1920" y="30" width="1920" height="1050" />
+    <state x="666" y="296" key="FileChooserDialogImpl" timestamp="1604732329443">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="2586" y="296" key="FileChooserDialogImpl/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1604099220698" />
-    <state width="1877" height="238" key="GridCell.Tab.0.bottom" timestamp="1604118884335">
+    <state x="666" y="296" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1604732329443" />
+    <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1606517065206">
       <screen x="1920" y="30" width="1920" height="1050" />
     </state>
     <state width="1877" height="139" key="GridCell.Tab.0.bottom/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1604108133760" />
-    <state width="1877" height="238" key="GridCell.Tab.0.bottom/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1604118884335" />
-    <state width="1877" height="238" key="GridCell.Tab.0.center" timestamp="1604118884334">
+    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1606517065206" />
+    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.30.1920.1050/1920.31.1920.1050/3840.44.1920.1050@1920.31.1920.1050" timestamp="1606272535175" />
+    <state width="1877" height="239" key="GridCell.Tab.0.center" timestamp="1606517065206">
       <screen x="1920" y="30" width="1920" height="1050" />
     </state>
     <state width="1877" height="139" key="GridCell.Tab.0.center/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1604108133760" />
-    <state width="1877" height="238" key="GridCell.Tab.0.center/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1604118884334" />
-    <state width="1877" height="238" key="GridCell.Tab.0.left" timestamp="1604118884334">
+    <state width="1877" height="239" key="GridCell.Tab.0.center/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1606517065206" />
+    <state width="1877" height="239" key="GridCell.Tab.0.center/0.30.1920.1050/1920.31.1920.1050/3840.44.1920.1050@1920.31.1920.1050" timestamp="1606272535175" />
+    <state width="1877" height="239" key="GridCell.Tab.0.left" timestamp="1606517065205">
       <screen x="1920" y="30" width="1920" height="1050" />
     </state>
     <state width="1877" height="139" key="GridCell.Tab.0.left/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1604108133759" />
-    <state width="1877" height="238" key="GridCell.Tab.0.left/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1604118884334" />
-    <state width="1877" height="238" key="GridCell.Tab.0.right" timestamp="1604118884335">
+    <state width="1877" height="239" key="GridCell.Tab.0.left/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1606517065205" />
+    <state width="1877" height="239" key="GridCell.Tab.0.left/0.30.1920.1050/1920.31.1920.1050/3840.44.1920.1050@1920.31.1920.1050" timestamp="1606272535175" />
+    <state width="1877" height="239" key="GridCell.Tab.0.right" timestamp="1606517065206">
       <screen x="1920" y="30" width="1920" height="1050" />
     </state>
     <state width="1877" height="139" key="GridCell.Tab.0.right/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1604108133760" />
-    <state width="1877" height="238" key="GridCell.Tab.0.right/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1604118884335" />
-    <state x="2291" y="81" key="SettingsEditor" timestamp="1604100683892">
+    <state width="1877" height="239" key="GridCell.Tab.0.right/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1606517065206" />
+    <state width="1877" height="239" key="GridCell.Tab.0.right/0.30.1920.1050/1920.31.1920.1050/3840.44.1920.1050@1920.31.1920.1050" timestamp="1606272535175" />
+    <state width="1877" height="351" key="GridCell.Tab.1.bottom" timestamp="1605316506934">
       <screen x="1920" y="30" width="1920" height="1050" />
     </state>
-    <state x="2291" y="81" key="SettingsEditor/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1604100683892" />
+    <state width="1877" height="351" key="GridCell.Tab.1.bottom/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1605316506934" />
+    <state width="1877" height="351" key="GridCell.Tab.1.center" timestamp="1605316506934">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.center/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1605316506934" />
+    <state width="1877" height="351" key="GridCell.Tab.1.left" timestamp="1605316506934">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.left/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1605316506934" />
+    <state width="1877" height="351" key="GridCell.Tab.1.right" timestamp="1605316506934">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.right/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1605316506934" />
+    <state x="2291" y="81" key="SettingsEditor" timestamp="1605314046825">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="2291" y="81" key="SettingsEditor/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1605314046825" />
     <state x="2262" y="238" key="new project wizard" timestamp="1604099301873">
       <screen x="1920" y="30" width="1920" height="1050" />
     </state>
     <state x="2262" y="238" key="new project wizard/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1604099301873" />
+    <state x="2536" y="258" key="run.anything.popup" timestamp="1606517001431">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="2536" y="258" key="run.anything.popup/0.30.1920.1050/1920.30.1920.1050@1920.30.1920.1050" timestamp="1606517001431" />
   </component>
 </project>

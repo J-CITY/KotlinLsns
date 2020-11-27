@@ -9,9 +9,6 @@ class MainController {
 
     fun initialize() {
         println("Controller working")
-        //play.setOnAction {
-        //    println("Button clicked!")
-        //}
     }
 
     fun clickMe() {

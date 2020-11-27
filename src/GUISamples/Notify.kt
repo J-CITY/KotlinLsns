@@ -37,6 +37,27 @@ class Notify: Application() {
         CIRCLE
     }
 
+    open class Car {
+        public var speed = 10.0
+        private var gas = 5
+
+        fun addGas(_g: Int) {
+            gas += _g
+        }
+        fun addGas(_g: Float) {
+
+        }
+    }
+
+    class Nissan: Car() {
+
+    }
+
+    fun myfun() {
+        var car = Nissan()
+
+    }
+
     class Config {
         var pos = Position.RIGHT_TOP
 
@@ -150,7 +171,6 @@ class Notify: Application() {
             icoBorder.setFill(ImagePattern(Image(path)))
             content.children.add(icoBorder)
         }
-
 
         var msgLayout = VBox()
 

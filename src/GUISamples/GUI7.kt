@@ -7,6 +7,7 @@ import javafx.stage.Stage
 
 class GUI7 : Application() {
 
+
     val layout = "/resources/main.fxml"
 
     override fun start(primaryStage: Stage?) {
@@ -17,6 +18,7 @@ class GUI7 : Application() {
     }
 
     companion object {
+        var a = 42
         @JvmStatic
         fun main(args: Array<String>) {
             launch(GUI7::class.java)
