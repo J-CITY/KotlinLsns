@@ -3,6 +3,7 @@ import javafx.beans.binding.Bindings
 import javafx.beans.binding.When
 import javafx.beans.property.DoubleProperty
 import javafx.beans.property.SimpleDoubleProperty
+import javafx.concurrent.Task
 import javafx.event.EventHandler
 import javafx.fxml.FXML
 import javafx.fxml.FXMLLoader

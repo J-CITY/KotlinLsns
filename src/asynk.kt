@@ -59,13 +59,15 @@ fun main() {
 
 
 
-    var job = GlobalScope.launch{
+    /*var job = GlobalScope.launch{
         delay(1000)
         println("Hello from coroutine")
     }
-    job.start()
+    job.start()*/
 
-    runBlocking<Unit> {
+
+    println("main")
+   /*runBlocking<Unit> {
         delay(2000)
         try {
             failedConcurrentSum()
@@ -74,7 +76,7 @@ fun main() {
 
         }
     }
-
+    */
     //yield
     val sequence = sequence {
         val start = 0
